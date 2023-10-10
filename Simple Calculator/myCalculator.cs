@@ -1,5 +1,3 @@
-```C#
-
 using System;
 
 namespace calculator
@@ -101,4 +99,3 @@ namespace calculator
         }
     }
 }
-```
